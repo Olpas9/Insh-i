@@ -127,25 +127,25 @@ print("Public Phone number : "+infos["public_phone_number"])
 print("Profile Picture : "+infos["ProfilePicture"])
 ########
 if fa == '2':
-  print('الان تخمين علي الاميل المشفر ')
-a = input('ماهو اول حرف في الاميل المشفر ؟')
-k = input('ماهو اخر حوف في الاميل المشفر ؟')
+  print('Tem inyaloyieni omera iwinjo')
+a = input('nying mokuongo in encrypted email')
+k = input('nyingi magiko eehee encrypted email')
   
 uesr = ''+a+''
 chars2 = 'qwertyuiopasdfghjklzxcvbnm1234567890_-.' 
 
-d = input('ماهو نطاق الاميل الي ظاهر في نهاية الاميل المشفر ؟')
+d = input('Ndiki range Mara encyrpted email')
 
 o = '@'
 email = ''+d+''
 print('==================================')
-amount = input('كم عدد الاميلات تريد ؟')
+amount = input('mail ad me dwaro?')
 amount = int(amount)
-length2 = input('كم عدد نجوم الاميل ؟')
+length2 = input('nyota add mantiere?')
 length2 = int(length2)
 
 print('==================================')
-print('تخمين علي اسم الاميل المشفر ')
+print('wacha nee nying Mara coded email tem bashiri')
 print('')
 print('')
 for password in range(amount):
