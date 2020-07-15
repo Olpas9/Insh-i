@@ -74,12 +74,21 @@ def getAllInfos(username,sessionId):
 
 
 fa = print('''
--------------------------------
-.:: Brute force mail Instagram and information extraction ::.
-
-    Author: Olpas9     
-    Instagram: https://www.instagram.com/olpas9    
--------------------------------
+__________________________________________________________
+  _______                     -
+ [__   __]                   | |                -
+    | |   _                  | |               | |
+    | |  | |_____      ______| |___            | |
+    | |  |  ___  \  /  _____/| |___ \   ______ | |
+    | |  | |    \ |/_ /__    | |   \ \ |______ | |
+  __| |__| |    | |_____ / / | |   | |         | |
+ [_______|_|    |_|_______/  |_|   |_|.        |_|
+____________INSTAGRAM INFORMATION_________________________
+ Author: Olpas9   
+ Follow me in Instagram: https://www.instagram.com/olpas9 
+ Tool name:Insh-i
+ "Disclaimer this is only for educational purposes "   
+_________________________________________________________
 Fetching the username info
 Brute force on the name of the email
 
