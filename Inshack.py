@@ -1,14 +1,10 @@
-#####colors##########
+##### COLORS #####
 
-class bcolors:
-    HEADER = '\033[95m'
-    OKBLUE = '\033[94m'
-    OKGREEN = '\033[92m'
-    WARNING = '\033[93m'
-    FAIL = '\033[91m'
-    ENDC = '\033[0m'
-    BOLD = '\033[1m'
-    UNDERLINE = '\033[4m'
+    
+   W = "\033[0m"
+   G = '\033[32;1m'
+   Y = '\033[33;1m'
+   R = '\033[31;1m'
 
 
 import argparse,json
