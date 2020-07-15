@@ -1,5 +1,5 @@
 # Insh-i
-Get Instagram information of any account.
+Get Instagram information of any account together with email for recovery.<br>
 # Author
 - GitHub: Olpas9
 - Instagram: https://www.instagram.com/olpas9
