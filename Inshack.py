@@ -3,7 +3,7 @@
 # GitHub: https://github.com/Olpas9
 # Follow me Instagram: https://www.instagram.com/Olpas9
 # NOTE:"I have used my mother tongue language in my codes so
-    if u want to use  this script check me in ig to use it"
+     u want to use  this script check me in ig to use it"
 ###################################################################
 
 
