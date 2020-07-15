@@ -1,9 +1,11 @@
-##### COLORS #####
-    
-W = "\033[0m"
-G = '\033[32;1m'
-Y = '\033[33;1m'
-R = '\033[31;1m'
+###################################################################
+Author: OLOO DAUDI
+GitHub: https://github.com/Olpas9
+Follow me Instagram: https://www.instagram.com/Olpas9
+                NOTE:
+ "I have used my mother tongue language in my codes so
+    if u want to use  this script check me in ig to use it"
+###################################################################
 
 
 import argparse,json
