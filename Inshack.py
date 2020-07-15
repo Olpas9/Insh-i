@@ -2,8 +2,7 @@
 # Author: OLOO DAUDI
 # GitHub: https://github.com/Olpas9
 # Follow me Instagram: https://www.instagram.com/Olpas9
-# NOTE:"I have used my mother tongue language in my codes so
-     u want to use  this script check me in ig to use it"
+# NOTE:"I have used my mother tongue language in my codes.
 ###################################################################
 
 
