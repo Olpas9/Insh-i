@@ -3,8 +3,10 @@ Get Instagram information of any account together with email for recovery.<br>
 # Author
 - GitHub: Olpas9
 - Instagram: https://www.instagram.com/olpas9
-# requirement
-- python3 <br>
+<br>
+<br>
+<img src="Screenshot_20200715-124159.png"><br>
+<br>
 
 # installation in termux
 1. ``` pkg update && pkg upgrade```
