@@ -13,7 +13,7 @@ Get Instagram information of any account together with email for recovery.<br>
 2. ``` termux-setup-storage```
 3. ``` pkg install git```
 4. ``` pkg install python```
-5. ``` git clone htttps://github.com/Olpas9/Insh-i```
+5. ``` git clone https://github.com/Olpas9/Insh-i```
 6. ``` cd Insh-i```
 7. ``` python Inshack.py```
 <br>
