@@ -15,7 +15,8 @@ Get Instagram information of any account together with email for recovery.<br>
 4. ``` pkg install python```
 5. ``` git clone https://github.com/Olpas9/Insh-i```
 6. ``` cd Insh-i```
-7. ``` python Inshack.py```
+7. ``` pip install quidam ```
+8. ``` python Inshack.py```
 <br>
 <br>
 
